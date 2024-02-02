@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\test\\Scripts\\python.exe",
+    "java.home": "C:\\Program Files\\Java\\jre1.8.0_202",
+    "sonarlint.ls.javaHome": "C:\\Program Files\\Java\\jre1.8.0_202",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "http-172-17-146-12-9000-",
+        "projectKey": "test-project"
+    }
+}
